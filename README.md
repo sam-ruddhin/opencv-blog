@@ -15,4 +15,4 @@ Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/course
 
 | Blog Post | Code|
 | ------------- |:-------------|
-| [OpenCV DNN : Bridging Classic Vision and Modern Deep Learning](https://opencv.org/blog/opencv-dnn-module/) | [Code]()
+| [OpenCV DNN : Bridging Classic Vision and Modern Deep Learning](https://opencv.org/blog/opencv-dnn-module/) | [Code](https://www.dropbox.com/scl/fo/xeqjg5psmsr9hu19bqnr9/AO0mW81BwjLdCNfQ6FeJE8E?rlkey=1kb5t4m6c1pc96jb28ecfdmfk&st=pjf6axi0&dl=1)
